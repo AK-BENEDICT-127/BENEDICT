@@ -15,7 +15,7 @@ export default function Login(params) {
       }}
     >
       
-      <Text style={{ fontSize: 20, color: "grey" }}>Login Now</Text>
+      <Text style={{ fontSize: 20, font-family: Roboto, color: "red" }}>Sneakers and Shirts</Text>
       {<View style={{}}>
         <TextInput
           style={{
@@ -60,8 +60,7 @@ export default function Login(params) {
           backgroundColor: "black",
         }}
       >
-        
-        <AntDesign name="apple1" size={20} color="white" />
+        <GoogleOutlined />
         <Text style={{ paddingLeft: 10, color: "white" }}>Login</Text>
       </TouchableOpacity>
     </View>
