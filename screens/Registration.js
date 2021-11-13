@@ -14,7 +14,7 @@ export default function Login(params) {
         alignItems: "center",
       }}
     >
-      <Text> Welcome to Sneakers Hub </Text>
+      <Text> Welcome to Sneakers and Shirts </Text>
       <Text> Register </Text>
       {<View style={{}}>
         <TextInput
