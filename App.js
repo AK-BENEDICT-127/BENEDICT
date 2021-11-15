@@ -7,7 +7,7 @@ import Login from "./screens/Login";
 import Home from "./screens/Login";
 import Registration from "./screens/Registration";
 import Checkout from "./screens/Checkout";
-import Description from "./screens/Description";
+import ProductDescription from "./screens/Description";
 
 
 export default function App() {
@@ -23,7 +23,7 @@ export default function App() {
           <MainNavigator.Screen name="Home" component={Home} /> 
           <MainNavigator.Screen name="Checkout" component={Checkout} />
           <MainNavigator.Screen name="Registration" component={Registration} /> 
-          <MainNavigator.Screen name="Description" component={Description} />
+          <MainNavigator.Screen name="ProductDescription" component={ProductDescription} />
          
         </MainNavigator.Navigator>
       </NavigationContainer>
