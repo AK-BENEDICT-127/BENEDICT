@@ -135,6 +135,24 @@ export default function Login(params) {
             placeholder='123'
         />
 </Form.Group>
+
+    <TouchableOpacity
+        onPress={() => {
+          navigation.navigate("Home");
+        }}
+        style={{
+          padding: 15,
+          paddingHorizontal: 80,
+          marginTop: 10,
+          alignItems: "center",
+          borderRadius: 10,
+          flexDirection: "row",
+          backgroundColor: "black",
+        }}
+      >
+        <GoogleOutlined />
+        <Text style={{ paddingLeft: 10, color: "white" }}>Pay</Text>
+      </TouchableOpacity>
     </View>
   );
 }
