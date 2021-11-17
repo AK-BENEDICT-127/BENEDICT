@@ -28,94 +28,163 @@ export default function Login(params) {
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/originals/eb/18/6d/eb186dacd9e16a74270ca7d092853aac.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
           <Image
             style={styles.imageThumbnail}
             source={{uri: 'https://i.pinimg.com/564x/68/50/fd/6850fd234372fc37f000b320c548ecba.jpg'}},
+            onPress={() => {
+              navigation.navigate("ProductDescription");
+            }}
           />
         </View>
       )}
