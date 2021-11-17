@@ -63,6 +63,12 @@ export default function Login(params) {
         <GoogleOutlined />
         <Text style={{ paddingLeft: 10, color: "white" }}>Login</Text>
       </TouchableOpacity>
+       <Text style={{ paddingLeft: 10, color: "black" }}
+        onPress={() => {
+          navigation.navigate("Registration");
+        }}>
+          Register
+      </Text>
     </View>
   );
 }
