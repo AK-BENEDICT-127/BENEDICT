@@ -7,7 +7,7 @@ export default function Registration(params) {
   return (
     <View
       style={{
-        backgroundColor: "white",
+        backgroundColor: "black",
         flex: 1,
         paddingHorizontal: 20,
         justifyContent: "center",
@@ -73,6 +73,29 @@ export default function Registration(params) {
           placeholder="Confirm Password"
         />
       </View>}
+      <TouchableOpacity
+        onPress={() => {
+          navigation.navigate("Home");
+        }}
+        style={{
+          padding: 15,
+          paddingHorizontal: 80,
+          marginTop: 10,
+          alignItems: "center",
+          borderRadius: 10,
+          flexDirection: "row",
+          backgroundColor: "black",
+        }}
+      >
+        <GoogleOutlined />
+        <Text style={{ paddingLeft: 10, color: "white" }}>Register</Text>
+      </TouchableOpacity>
+       <Text style={{ paddingLeft: 10, color: "white" }}
+        onPress={() => {
+          navigation.navigate("Login");
+        }}>
+          Already have an account? Click here.
+      </Text>
     </View>
   );
 }
