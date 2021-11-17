@@ -5,12 +5,12 @@ import { Card } from 'antd';
 import { EditOutlined, EllipsisOutlined, SettingOutlined } from '@ant-design/icons';
 import { Dimensions } from 'react-native';
 
-export default function Login(params) {
+export default function ProductDescription(params) {
   const navigation = params.navigation;
   return (
     <View
       style={{
-        backgroundColor: "white",
+        backgroundColor: "black",
         flex: 1,
         paddingHorizontal: 20,
         justifyContent: "center",
